@@ -35,4 +35,4 @@ Project 15: Titanic Survival Prediction : Logistic Regression
 
 Project 16: Calories Burnt Prediction : XGBoost Regressor
 
-Project 17: Movies Recommendation System : Cosine Similarity
+Project 17: Movies Recommendation System : Cosine Similarity.
